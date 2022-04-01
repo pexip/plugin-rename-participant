@@ -10,7 +10,7 @@
   "menuItems": {
     "participants": [
       {
-        "icon": "renameParticipant.svg",
+        "icon": "assets/images/renameParticipant.svg",
         "label": "Rename Participant",
         "action": "renameParticipant"
       }
