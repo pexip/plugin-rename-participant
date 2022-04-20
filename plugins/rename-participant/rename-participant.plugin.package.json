@@ -1,9 +1,9 @@
 {
-  "id": "renameParticipant-plugin-1.1",
-  "name": "renameParticipant",
+  "id": "rename-participant-plugin-1.1",
+  "name": "rename-participant",
   "description": "Rename participants plugin",
   "version": 1.1,
-  "srcURL": "renameParticipant.plugin.js",
+  "srcURL": "rename-participant.plugin.js",
   "allowUnload": true,
   "platforms": ["web", "electron", "ios", "android"],
   "participantRoles": ["chair"],

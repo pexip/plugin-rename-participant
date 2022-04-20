@@ -1,8 +1,8 @@
 {
   "plugins": [
     {
-      "id": "renameParticipant-plugin-1.1",
-      "srcURL": "plugins/renameParticipant/renameParticipant.plugin.package.json",
+      "id": "rename-participant-plugin-1.1",
+      "srcURL": "plugins/rename-participant/rename-participant.plugin.package.json",
       "enabled": true
     }
   ]

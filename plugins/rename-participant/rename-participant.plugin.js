@@ -45,7 +45,7 @@
   }
 
   PEX.pluginAPI.registerPlugin({
-    id: 'renameParticipant-plugin-1.1',
+    id: 'rename-participant-plugin-1.1',
     load: load,
     unload: unload,
     renameParticipant: renameParticipant,
